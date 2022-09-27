@@ -26,3 +26,10 @@ The weather information will be automatically retrieved from the internet (some 
 ### Future Ideas
 * Graph will be displayed on Smart Mirror (if i ever build it)
 * and/or make a basic android app and replace current weather widget with my own widget
+
+
+
+Sergio Peterson will hopefully help because he knows how to do data stuff.
+I will be in charge of managing since this is my project.
+idk ill add more as ideas come lmao
+hopefully this will be the project i finally finish
