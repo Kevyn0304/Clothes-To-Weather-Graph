@@ -26,6 +26,8 @@ The weather information will be automatically retrieved from the internet (some 
 ### Future Ideas
 * Graph will be displayed on Smart Mirror (if i ever build it)
 * and/or make a basic android app and replace current weather widget with my own widget
+* V1, completley passive, no interaction with UI, only displays stuff that's hardcoded/preset
+* V2, add Google AIY Voice Kit and display stuff based on voice commands/interact with Google Home
 
 
 
