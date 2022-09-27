@@ -33,3 +33,4 @@ Sergio Peterson will hopefully help because he knows how to do data stuff.
 I will be in charge of managing since this is my project.
 idk ill add more as ideas come lmao
 hopefully this will be the project i finally finish
+Hosted on desktop or terminal if done before smart mirror
