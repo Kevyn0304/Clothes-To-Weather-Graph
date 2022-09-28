@@ -6,19 +6,16 @@ Will start off with user input and graph as the days go by until predictions bec
 * Temperature
 * Humidity
 * Air Quality
-* Wind Velocity (because there's direction)
 
 ## Prediction Method
 * Line of Best Fit
 * Machine Learning?
 
 ## Outfit Options
-* Sweater
-* Long Sleeve
-* Short Sleeve
 * Shorts
-* Pants
-* Undershirt
+* Pants/Short sleeve
+* Pants/Long sleeve
+* Sweater
 
 Will start with user input every afternoon, stating what outfits were used.
 The weather information will be automatically retrieved from the internet (some weather API).
@@ -28,7 +25,6 @@ The weather information will be automatically retrieved from the internet (some 
 * and/or make a basic android app and replace current weather widget with my own widget
 * V1, completley passive, no interaction with UI, only displays stuff that's hardcoded/preset
 * V2, add Google AIY Voice Kit and display stuff based on voice commands/interact with Google Home
-
 
 
 Sergio Peterson will hopefully help because he knows how to do data stuff.
