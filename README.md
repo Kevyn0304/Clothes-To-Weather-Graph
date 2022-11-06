@@ -1,4 +1,4 @@
-# Clothes-To-Weather-Graph
+# Weather-to-Clothes Project
 Program a graph that will take inputs regarding the current day's projected weather and predict what outfit will be most comfortable for the day. 
 Will start off with user input and graph as the days go by until predictions become consistent and accurate.
 
